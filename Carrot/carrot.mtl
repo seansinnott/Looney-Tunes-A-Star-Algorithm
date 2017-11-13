@@ -1,0 +1,9 @@
+newmtl Leaf
+Kd 0.127172 0.530612 0.147344
+illum 1
+map_Kd carrotleaf.png
+
+newmtl Body
+Kd 0.867347 0.399027 0.064513
+illum 1
+map_Kd carrotbody.png
